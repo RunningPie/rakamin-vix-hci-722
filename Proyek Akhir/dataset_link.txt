@@ -1,0 +1,2 @@
+Below is the link to download the dataset used in this analysis
+https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/home-credit-indonesia/home-credit-default-risk.zip
